@@ -2,7 +2,12 @@
   "name": "motionbird",
   "version": "0.1.0",
   "description": "MotionBird — Real-time computer-vision fitness movement intelligence platform",
-  "private": true,
+  "author": "Brajesh Kumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brajesh31/motionbird.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

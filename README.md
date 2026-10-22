@@ -58,7 +58,7 @@ Form Analysis (Threshold Severity & Real-Time Cues)
 Workout Session (Sets, Reps, Rest Timers, Persistence)
 ```
 
-For complete technical specifications, see [ARCHITECTURE.md](file:///d:/AR_gym/ARCHITECTURE.md).
+For complete technical specifications, see [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ---
 
@@ -145,8 +145,8 @@ For complete technical specifications, see [ARCHITECTURE.md](file:///d:/AR_gym/A
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd AR_gym
+git clone https://github.com/Brajesh31/motionbird.git
+cd motionbird
 
 # Install dependencies
 yarn install
@@ -206,9 +206,6 @@ yarn start
 
 ---
 
-## Attribution & License
+## License
 
-- **Original Foundation**: This project was originally bootstrapped from an exploratory computer-vision prototype created by [Naresh Khatri](https://github.com/Naresh-Khatri) ([`Naresh-Khatri/AR_gym`](https://github.com/Naresh-Khatri/AR_gym)).
-- **Evolution**: The codebase was completely re-architected, rebranded, and modernized into **MotionBird**, introducing modular vision pipelines, robust finite state machines, comprehensive workout session tracking, calibration, and production-grade engineering standards.
-- **Core Vision Technology**: Powered by [Google MediaPipe](https://developers.google.com/mediapipe).
-- **License**: MIT License. See [LICENSE](file:///d:/AR_gym/LICENSE) for details.
+MIT License &copy; 2026 Brajesh Kumar. See [LICENSE](LICENSE) for details.
